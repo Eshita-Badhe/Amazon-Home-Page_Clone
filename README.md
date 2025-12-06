@@ -1,5 +1,5 @@
 # Amazon-Home-Page_Clone
-I recreated the Mazon India Home Page UI using HTML and CSS to sharpen my front-end development skills.
+I recreated the Amazon India Home Page UI using HTML and CSS to sharpen my front-end development skills.
 <br>
 
 ---
